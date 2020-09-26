@@ -2,6 +2,7 @@
 var lower = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "o", "p", "q", "r", "s","t", "u", "v", "w", "x", "y", "z"]
 var number = ["1", "2", "3", "4", "5", "6", "7", "8", "9","0"]
 var special = ["!", "@", "#", "$", "%", "^", "&", "*", "(", ")"]
+
 function getCriteria() {
   
   var confirmLength = prompt("How long would you like your password to be be? Between 8 and 128")

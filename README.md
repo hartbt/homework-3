@@ -32,11 +32,15 @@ This assignment was very difficult to complete, and I would not have been able t
 
 The first issue that I came across was where to start after defining all of the arrays and variables that I had planned on using within the function.
 
-I then struggled with creating working 'if' statements within the function. 
+I then struggled with creating working 'if' statements within the first function 'getCriteria'. 
+
+Following the 'if' statements, I struggled with creating a function that would be able to accept the users criteria, and then generate random characters. When creating this function, I struggled with having the password fit the amount of characters that the user selected at the beginning of the prompts. 
+
+The 'for' statements also provided a challenge for me, such as properly putting the [i] within the statement to get the results that I wanted. 
 
 # **Credits**
 
-Though this website was created by me, it was only done so using knowledge provided by my instructor, TA's, my tutor, as well as many of my classmates.
+Though this website was created by me, it was only done so using knowledge provided by my instructor, TA's, my tutor, as well as many of my classmates. 
 
 # **License**
 
